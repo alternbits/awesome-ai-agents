@@ -144,6 +144,9 @@ AI assistant for Node.js development.
 #### [GPTSwarm](https://gptswarm.org/)
 Optimizable graph-based AI agents.
 
+#### [Upsonic](https://github.com/Upsonic/Upsonic)
+Reliable agent framework that support MCP.
+
 ---
 
 ## External Links
