@@ -144,6 +144,9 @@ AI assistant for Node.js development.
 #### [GPTSwarm](https://gptswarm.org/)
 Optimizable graph-based AI agents.
 
+#### [Pinchwork](https://github.com/anneschuth/pinchwork)
+Open-source agent-to-agent task marketplace. Agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations.
+
 ---
 
 ## External Links
