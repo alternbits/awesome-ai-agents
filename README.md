@@ -141,6 +141,9 @@ Low-code AI agent builder.
 #### [Friday](https://github.com/amirrezasalimi/friday/)
 AI assistant for Node.js development.
 
+#### [Giselle](https://github.com/giselles-ai/giselle)
+AI for Agentic Workflows. Human-AI Collaboration. Open Source
+
 #### [GPTSwarm](https://gptswarm.org/)
 Optimizable graph-based AI agents.
 
