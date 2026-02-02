@@ -17,6 +17,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [CrewAI](https://github.com/joaomdmoura/crewai) - Framework for multi-agent orchestration.
 - [Agent4Rec](https://github.com/LehengTHU/Agent4Rec) - A recommender system simulator using 1,000 generative agents.
 - [AgentForge](https://github.com/DataBassGit/AgentForge) - LLM-agnostic platform for building and testing AI agents.
+- [AgentFund](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base.
 - [AgentPilot](https://github.com/jbexta/AgentPilot) - Desktop app for building, managing, and chatting with AI agents.
 - [Agents](https://github.com/aiwaves-cn/agents) - Library/framework for building language agents.
 - [AgentVerse](https://github.com/OpenBMB/AgentVerse) - Platform for task-solving and simulation AI agents.
