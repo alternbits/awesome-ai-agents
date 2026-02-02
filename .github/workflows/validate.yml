@@ -1,0 +1,40 @@
+name: Validate and compile
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to push committed readme
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: alternbits/opendata@0.1.4
+        id: opendata
+        with:
+          fail-if-outdated: 'false'  # allow job to continue so we can commit
+
+      - name: Commit generated readme if changed
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push' && github.actor != 'github-actions[bot]'
+        run: |
+          OUTPUT="${{ steps.opendata.outputs.output-path }}"
+          if [ -z "$OUTPUT" ]; then
+            OUTPUT="README.md"
+          fi
+          # Use basename in case action gave absolute path
+          FILE="${OUTPUT##*/}"
+          if [ ! -f "$FILE" ]; then
+            echo "::error::Generated file '$FILE' not found. Set output in config.yml and match the fallback above if the action does not pass output-path."
+            exit 1
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$FILE"
+          git diff --staged --quiet || (git commit -m "chore: update generated readme" && git push)

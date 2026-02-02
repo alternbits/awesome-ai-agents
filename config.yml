@@ -1,0 +1,3 @@
+# Compiler config (optional). Leave output empty to use default readme.md.
+output: README.md
+review_links_enabled: true

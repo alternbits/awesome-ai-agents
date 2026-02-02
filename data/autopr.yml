@@ -1,0 +1,10 @@
+name: AutoPR
+slug: autopr
+url: https://github.com/irgolic/AutoPR
+position: ordinary
+oneliner: Automated pull request AI agent.
+description: Automated pull request AI agent.
+main_category: open-source
+categories: []
+date_added: 2026-02-01
+date_modified: 2026-02-01

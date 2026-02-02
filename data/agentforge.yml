@@ -1,0 +1,10 @@
+name: AgentForge
+slug: agentforge
+url: https://github.com/DataBassGit/AgentForge
+position: ordinary
+oneliner: LLM-agnostic platform for building and testing AI agents.
+description: LLM-agnostic platform for building and testing AI agents.
+main_category: open-source
+categories: []
+date_added: 2026-02-01
+date_modified: 2026-02-01

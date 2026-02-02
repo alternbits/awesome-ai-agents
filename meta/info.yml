@@ -1,0 +1,18 @@
+name: Awesome AI Agents
+description: |
+  A curated list of AI agents, categorized into open-source projects and closed-source projects/companies.
+position_order:
+  - featured
+  - popular
+  - ordinary
+  - new
+  - dead
+badges:
+  - url: https://awesome.re/badge.svg
+    link: https://awesome.re
+license: CC0
+contribute: CONTRIBUTING.md
+footer: |
+  For AI agent-related SDKs, frameworks, and tools, see [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents).
+
+  External links: [Productivity AI Agents](https://productivity.directory/category/ai-agents) · [Top AI Agents](https://ohmyaiagent.com) · [There's an AI](https://theresanai.com/)
