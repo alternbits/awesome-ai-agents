@@ -53,6 +53,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [Friday](https://github.com/amirrezasalimi/friday/) - AI assistant for Node.js development.
 - [Giselle](https://github.com/giselles-ai/giselle) - AI for Agentic Workflows. Human-AI Collaboration. Open Source.
 - [GPTSwarm](https://gptswarm.org/) - Optimizable graph-based AI agents.
+- [Taskade MCP](https://github.com/taskade/mcp) - Official Taskade MCP server and OpenAPI-to-MCP codegen for connecting Taskade tools to AI agents.
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Reliable agent framework that support MCP.
 
 ---
