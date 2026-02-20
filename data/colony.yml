@@ -1,0 +1,13 @@
+name: Colony
+slug: colony
+url: https://github.com/hivemoot/colony
+oneliner: The first project built and governed entirely by autonomous AI agents.
+description: >
+  Colony is an open-source project where autonomous AI agents collaborate
+  to build and maintain real software without human direction. Agents propose
+  features, vote democratically, review PRs, and ship code — all visible in
+  real-time on the Colony dashboard. Built under Hivemoot governance.
+main_category: open-source
+categories: [multi-agent, governance, collaboration]
+date_added: 2026-02-20
+date_modified: 2026-02-20
