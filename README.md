@@ -11,6 +11,8 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 
 ## Open-source Projects
 
+- [Agent Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agents internet access in 30 seconds. Scaffolding tool supporting 9+ platforms (Twitter, YouTube, Reddit, Bilibili, Xiaohongshu, GitHub, RSS, Web, Exa search). Works with Claude Code, OpenClaw, Cursor, Windsurf. Free, open source, privacy-first.
+
 - [Adala](https://github.com/HumanSignal/Adala) - Autonomous data labeling agent framework.
 - [AgentGPT](https://agentgpt.reworkd.ai/) - Browser-based no-code AI agent tool.
 - [AutoGen](https://github.com/microsoft/autogen) - Multi-agent AI framework by Microsoft.
