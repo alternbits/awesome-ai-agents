@@ -20,6 +20,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [AgentPilot](https://github.com/jbexta/AgentPilot) - Desktop app for building, managing, and chatting with AI agents.
 - [Agents](https://github.com/aiwaves-cn/agents) - Library/framework for building language agents.
 - [AgentVerse](https://github.com/OpenBMB/AgentVerse) - Platform for task-solving and simulation AI agents.
+- [Agent Gateway](https://github.com/OzorOwn/agent-gateway) - Unified REST API proxy for 39+ AI agent microservices (wallets, DeFi, screenshots, webhooks, code execution, and more).
 - [AI Legion](https://github.com/eumemic/ai-legion) - Multi-agent system similar to AutoGPT.
 - [Aider](https://github.com/paul-gauthier/aider) - Command-line AI coding assistant.
 - [AIlice](https://github.com/myshell-ai/AIlice) - Task execution AI agent with dynamic agent trees.
