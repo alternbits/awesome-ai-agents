@@ -53,6 +53,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [Friday](https://github.com/amirrezasalimi/friday/) - AI assistant for Node.js development.
 - [Giselle](https://github.com/giselles-ai/giselle) - AI for Agentic Workflows. Human-AI Collaboration. Open Source.
 - [GPTSwarm](https://gptswarm.org/) - Optimizable graph-based AI agents.
+- [ATXP](https://github.com/atxp-dev/atxp) - Agent identity and payment infrastructure. One command gives an AI agent a USDC wallet, `@atxp.email` inbox, phone number, and 100+ paid tools (web search, image gen, LLM gateway). No KYC, $5 free credit.
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Reliable agent framework that support MCP.
 
 ---
