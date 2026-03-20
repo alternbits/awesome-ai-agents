@@ -55,6 +55,10 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [GPTSwarm](https://gptswarm.org/) - Optimizable graph-based AI agents.
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Reliable agent framework that support MCP.
 
+## Closed-source Projects & Companies
+
+- [Vocova](https://vocova.app) - Multilingual AI transcription with auto language detection, speaker diarization, and URL import from 1000+ platforms.
+
 ---
 
 **License**: CC0
