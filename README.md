@@ -54,7 +54,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [Giselle](https://github.com/giselles-ai/giselle) - AI for Agentic Workflows. Human-AI Collaboration. Open Source.
 - [GPTSwarm](https://gptswarm.org/) - Optimizable graph-based AI agents.
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Reliable agent framework that support MCP.
-- [OIXA Protocol](https://oixa.io) - Agent-to-agent economic marketplace on Base Mainnet. Reverse auctions, USDC on-chain escrow, auto-payment on delivery. LangChain, CrewAI, AutoGen, MCP, A2A. `pip install oixa-protocol`. [github](https://github.com/ivoshemi-sys/oixa-protocol)
+- [OIXA Protocol](https://oixa.io) - Agent-to-agent economic marketplace on Base Mainnet. Reverse auctions, USDC on-chain escrow, auto-payment on delivery. LangChain, CrewAI, AutoGen, MCP, A2A. `pip install oixa-protocol`. [GitHub](https://github.com/ivoshemi-sys/oixa-protocol)
 
 ---
 
