@@ -1,0 +1,10 @@
+name: Bernstein
+slug: bernstein
+url: https://github.com/chernistry/bernstein
+position: ordinary
+oneliner: Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits.
+description: Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits.
+main_category: open-source
+categories: []
+date_added: 2026-03-28
+date_modified: 2026-03-28
