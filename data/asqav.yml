@@ -1,0 +1,9 @@
+name: Asqav
+slug: asqav
+url: https://github.com/jagmarques/asqav-sdk
+oneliner: Open-source SDK for AI agent governance with tamper-evident audit trails.
+description: Asqav provides tamper-evident audit trails, tool scanning, and enforcement policies for AI agent systems.
+main_category: open-source
+categories: []
+date_added: 2026-04-08
+date_modified: 2026-04-08
