@@ -64,3 +64,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 For AI agent-related SDKs, frameworks, and tools, see [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents).
 
 External links: [Productivity AI Agents](https://productivity.directory/category/ai-agents) · [Top AI Agents](https://ohmyaiagent.com) · [There's an AI](https://theresanai.com/)
+
+- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) data platform for AI agents — 122 REST API endpoints, 2 MCP tools, 23 extraction types. Search tweets, look up users, post, monitor accounts. API key auth.
