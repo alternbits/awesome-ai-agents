@@ -44,6 +44,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - AI-powered app prototyping tool.
 - [DevGPT](https://github.com/jina-ai/dev-gpt) - AI-powered virtual software development team.
 - [Devika](https://github.com/stitionai/devika) - AI-powered software engineer.
+- [Dexto](https://github.com/truffle-ai/dexto) - Open agent harness with production-ready coding agent. YAML config, 50+ LLM support, MCP tools, persistent memory.
 - [Devon](https://github.com/entropy-research/Devon) - Open-source Devin alternative.
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - AI-driven software development automation.
 - [dotagent](https://github.com/dot-agent/dotagent) - Deployable AI agents for cloud, PC, and mobile.
