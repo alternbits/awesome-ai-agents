@@ -7,6 +7,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 ## Contents
 
 - [Open-source Projects](#open-source)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [Closed-source Projects & Companies](#closed-source)
 
 ## Open-source Projects
