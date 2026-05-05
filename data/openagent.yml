@@ -1,0 +1,10 @@
+name: OpenAgent
+slug: openagent
+url: https://github.com/the-open-agent/openagent
+position: ordinary
+oneliner: Next-generation personal AI assistant with LLM, RAG, agent loops, computer-use, browser-use, and coding agents; self-hostable with MCP support.
+description: Open-source Go-based platform combining LLMs, retrieval-augmented generation, and agent workflows with visual builder, admin dashboard, and 30+ model providers.
+main_category: open-source
+categories: []
+date_added: 2026-05-05
+date_modified: 2026-05-05
