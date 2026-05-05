@@ -1,0 +1,9 @@
+name: Nylas CLI
+slug: nylas-cli
+url: https://cli.nylas.com
+oneliner: Email, calendar, and contacts MCP server for AI agents.
+description: Nylas CLI gives AI agents a real email account, working calendar, and contacts across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP via one auth flow. Built-in MCP server with 16 tools, install with `nylas mcp install`.
+main_category: open-source
+categories: []
+date_added: 2026-05-04
+date_modified: 2026-05-04
