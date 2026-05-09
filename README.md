@@ -63,4 +63,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 For AI agent-related SDKs, frameworks, and tools, see [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents).
 
-External links: [Productivity AI Agents](https://productivity.directory/category/ai-agents) · [Top AI Agents](https://ohmyaiagent.com) · [There's an AI](https://theresanai.com/)
+External links: [Productivity AI Agents](https://productivity.directory/category/ai-agents) · [Top AI Agents](https://ohmyaiagent.com) · [There's an AI](https://theresanai.com/) · [Awesome AI Startups — AI Agents & Assistants](https://github.com/nowork-studio/awesome-ai-startups#ai-agents-assistants)
