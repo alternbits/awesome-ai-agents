@@ -1,0 +1,9 @@
+name: Dakera
+slug: dakera
+url: https://github.com/dakera-ai/dakera-deploy
+oneliner: Persistent memory layer for AI agents with hybrid BM25 + vector retrieval.
+description: Dakera is a production-ready persistent memory layer for AI agents, providing hybrid BM25 + vector retrieval, temporal reasoning, importance-weighted decay, and multi-tenant namespacing. Integrates with LangChain, LlamaIndex, CrewAI, and AutoGen.
+main_category: open-source
+categories: []
+date_added: 2026-05-13
+date_modified: 2026-05-13
