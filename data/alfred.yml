@@ -1,0 +1,10 @@
+name: Alfred
+slug: alfred
+url: https://github.com/luminik-io/alfred-os
+position: ordinary
+oneliner: Self-hosted runtime for autonomous Claude Code and Codex agents.
+description: Alfred is a self-hosted Python runtime that turns scoped GitHub issues into reviewed pull requests through autonomous Claude Code and Codex agents on a developer's own subscription, with per-firing git worktrees, label-driven state, role-based engine routing, and Slack reporting.
+main_category: open-source
+categories: []
+date_added: 2026-05-23
+date_modified: 2026-05-23
