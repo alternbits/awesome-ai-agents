@@ -51,8 +51,10 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [FastAgency](https://fastagency.ai/latest/) - Multi-agent AI workflow deployment tool.
 - [Flowise](https://flowiseai.com/) - Low-code AI agent builder.
 - [Friday](https://github.com/amirrezasalimi/friday/) - AI assistant for Node.js development.
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop.
 - [Giselle](https://github.com/giselles-ai/giselle) - AI for Agentic Workflows. Human-AI Collaboration. Open Source.
 - [GPTSwarm](https://gptswarm.org/) - Optimizable graph-based AI agents.
+- [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Reliable agent framework that support MCP.
 
 ---
