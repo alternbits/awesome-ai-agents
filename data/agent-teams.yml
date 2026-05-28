@@ -1,0 +1,9 @@
+name: Agent Teams
+slug: agent-teams
+url: https://github.com/777genius/agent-teams-ai
+oneliner: Desktop app for autonomous AI coding agent teams.
+description: Agent Teams is a free open-source desktop app for autonomous AI agent teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals with 200+ models and 75+ LLM providers.
+main_category: open-source
+categories: []
+date_added: 2026-05-28
+date_modified: 2026-05-28
