@@ -24,6 +24,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [Aider](https://github.com/paul-gauthier/aider) - Command-line AI coding assistant.
 - [AIlice](https://github.com/myshell-ai/AIlice) - Task execution AI agent with dynamic agent trees.
 - [AutoGPT](https://agpt.co/) - An experimental project for fully autonomous GPT-4.
+- [LightAgent](https://github.com/wanxingai/LightAgent) - Lightweight Python agent framework with memory, MCP/SSE integration, reusable Skills, Tree-of-Thought planning, streaming, and LightSwarm multi-agent collaboration.
 - [Automata](https://github.com/emrgnt-cmplxty/automata) - AI-driven code generation and automation framework.
 - [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot) - AI-powered HR query assistant.
 - [AutoPR](https://github.com/irgolic/AutoPR) - Automated pull request AI agent.
