@@ -63,4 +63,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 For AI agent-related SDKs, frameworks, and tools, see [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents).
 
+## Infrastructure & Trust
+
+Tools for agent identity, credentials, and payment infrastructure.
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification for AI agent wallets. Score agent wallets, run preflight checks, and get cryptographic trust receipts before on-chain transactions. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
+
 External links: [Productivity AI Agents](https://productivity.directory/category/ai-agents) · [Top AI Agents](https://ohmyaiagent.com) · [There's an AI](https://theresanai.com/)
