@@ -54,6 +54,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [Giselle](https://github.com/giselles-ai/giselle) - AI for Agentic Workflows. Human-AI Collaboration. Open Source.
 - [GPTSwarm](https://gptswarm.org/) - Optimizable graph-based AI agents.
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Reliable agent framework that support MCP.
+- [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus) - Ready-to-run, open-source AI agent team workspace with memory-aware, collaborating agents and MCP-style tools.
 
 ---
 
