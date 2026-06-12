@@ -55,6 +55,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [GPTSwarm](https://gptswarm.org/) - Optimizable graph-based AI agents.
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Reliable agent framework that support MCP.
 
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, and images into local indexes and vectors, so agents can retrieve precise personal context instead of repeatedly scanning files or loading whole documents into prompts.
 ---
 
 **License**: CC0
