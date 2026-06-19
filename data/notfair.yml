@@ -1,0 +1,10 @@
+name: NotFair
+slug: notfair
+url: https://github.com/nowork-studio/NotFair
+position: ordinary
+oneliner: Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+description: NotFair is a set of open-source AI agent skills for marketing work, built as Claude Code plugins. It covers SEO (site analysis, keyword research, meta tags, schema markup, GEO optimization), Google Ads (audits, wasted-spend detection, keyword and bid management), and Meta Ads (ROAS, creative fatigue, audience overlap). Live data flows through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+main_category: open-source
+categories: []
+date_added: 2026-06-19
+date_modified: 2026-06-19
