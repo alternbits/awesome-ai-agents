@@ -1,0 +1,10 @@
+name: ax
+slug: ax
+url: https://github.com/Necmttn/ax
+position: ordinary
+oneliner: Local-first evidence graph for AI coding-agent sessions.
+description: Indexes local coding-agent transcripts and exposes read-only MCP queries for sessions, tool calls, skills, and cost.
+main_category: open-source
+categories: []
+date_added: 2026-06-20
+date_modified: 2026-06-20
