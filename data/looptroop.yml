@@ -1,0 +1,10 @@
+name: LoopTroop
+slug: looptroop
+url: https://github.com/looptroop-ai/LoopTroop
+position: ordinary
+oneliner: Local GUI orchestrator for AI coding agents with LLM Council planning, isolated git worktrees, and Ralph Loop recovery.
+description: Local GUI orchestrator for AI coding agents with LLM Council planning, isolated git worktrees, and Ralph Loop recovery.
+main_category: open-source
+categories: []
+date_added: 2026-06-21
+date_modified: 2026-06-21
