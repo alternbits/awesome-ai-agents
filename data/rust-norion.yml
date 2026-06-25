@@ -1,0 +1,10 @@
+name: rust-norion
+slug: rust-norion
+url: https://github.com/yanghao1143/rust-norion
+position: ordinary
+oneliner: Rust prototype for AI runtime-control boundaries.
+description: Rust prototype for AI runtime-control boundaries with routing, memory gates, evidence checks, rollback, and audit traces.
+main_category: open-source
+categories: []
+date_added: 2026-06-25
+date_modified: 2026-06-25
