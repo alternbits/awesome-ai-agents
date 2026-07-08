@@ -1,0 +1,10 @@
+name: Tree Ring Memory
+slug: tree-ring-memory
+url: https://github.com/TerminallyLazy/Tree-Ring-Memory
+position: ordinary
+oneliner: Local-first memory lifecycle framework for AI agents.
+description: Local-first, Rust-native memory lifecycle framework for AI agents with SQLite/FTS recall, audit, consolidation, forgetting, and portable skill adapters.
+main_category: open-source
+categories: []
+date_added: 2026-07-08
+date_modified: 2026-07-08
