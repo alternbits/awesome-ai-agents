@@ -1,0 +1,9 @@
+name: Hivekeep
+slug: hivekeep
+url: https://github.com/MarlBurroW/hivekeep
+oneliner: Self-hosted platform to run a team of collaborating AI agents.
+description: Hivekeep is a self-hosted, MIT-licensed platform to run a team of specialized AI agents with persistent memory and a web UI; agents collaborate and build their own tools, mini-apps and plugins, and are reachable over Telegram, Slack, Discord and Matrix from a single container (Bun + SQLite).
+main_category: open-source
+categories: []
+date_added: 2026-07-13
+date_modified: 2026-07-13
