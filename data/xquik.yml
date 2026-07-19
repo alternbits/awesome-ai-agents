@@ -1,0 +1,10 @@
+name: Xquik
+slug: xquik
+url: https://github.com/Xquik-dev/x-twitter-scraper
+position: ordinary
+oneliner: Agent Skill for public X data workflows through REST API and MCP.
+description: Agent Skill for X search, monitoring, extraction, webhooks, and confirmation-gated publishing through REST API and MCP. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+main_category: open-source
+categories: []
+date_added: 2026-06-23
+date_modified: 2026-07-19
