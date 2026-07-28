@@ -1,0 +1,9 @@
+name: ClawBench
+slug: clawbench
+url: https://github.com/TIGER-AI-Lab/ClawBench
+oneliner: Live-web benchmark for evaluating browser and computer-use agents.
+description: ClawBench evaluates browser and computer-use agents on 283 tasks across 163 live websites with request interception and execution evidence.
+main_category: open-source
+categories: []
+date_added: 2026-07-28
+date_modified: 2026-07-28
