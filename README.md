@@ -12,6 +12,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 ## Open-source Projects
 
 - [Adala](https://github.com/HumanSignal/Adala) - Autonomous data labeling agent framework.
+- [Agon](https://github.com/AutoResearch-Factory/Agon) - Autonomous omnidisciplinary research orchestrator built as a Claude Code plugin. Scientist/coder/auditor loops across 10+ disciplines, governed by Prompt Economy.
 - [AgentGPT](https://agentgpt.reworkd.ai/) - Browser-based no-code AI agent tool.
 - [AutoGen](https://github.com/microsoft/autogen) - Multi-agent AI framework by Microsoft.
 - [CrewAI](https://github.com/joaomdmoura/crewai) - Framework for multi-agent orchestration.
