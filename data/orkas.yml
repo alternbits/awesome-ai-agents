@@ -1,0 +1,10 @@
+name: Orkas
+slug: orkas
+url: https://github.com/Orkas-AI/Orkas
+position: ordinary
+oneliner: Local-first desktop workspace for commanding a team of specialized AI agents.
+description: Open-source desktop client where a Commander coordinates specialized agents in parallel or in series through one conversation, with bring-your-own model providers.
+main_category: open-source
+categories: []
+date_added: 2026-08-03
+date_modified: 2026-08-03
