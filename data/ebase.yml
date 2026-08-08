@@ -1,0 +1,8 @@
+name: ebase
+slug: ebase
+url: https://github.com/embeddingvc/ebase
+oneliner: Open-source LinkedIn recruiting outreach for Claude Code.
+description: MCP server driving your own signed-in Chrome for connection requests, DMs, and profile research, with enforced daily activity limits and persistent pipeline state.
+main_category: open-source
+categories: []
+date_added: 2026-08-08
