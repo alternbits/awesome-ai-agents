@@ -1,0 +1,10 @@
+name: Atomic Agent
+slug: atomic-agent
+url: https://github.com/AtomicBot-ai/atomic-agent
+position: ordinary
+oneliner: Local-first CLI and TUI coding agent for open-weight models.
+description: MIT-licensed CLI and TUI agentic coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, a five-layer local memory system, and a React and ink TUI. Runs on macOS, Linux and Windows.
+main_category: open-source
+categories: []
+date_added: 2026-08-13
+date_modified: 2026-08-13
