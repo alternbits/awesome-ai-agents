@@ -27,6 +27,7 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [Automata](https://github.com/emrgnt-cmplxty/automata) - AI-driven code generation and automation framework.
 - [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot) - AI-powered HR query assistant.
 - [AutoPR](https://github.com/irgolic/AutoPR) - Automated pull request AI agent.
+- [Tracefold](https://github.com/TraceFold/tracefold) - Verified transformation calculus and undo engine in Rust for AI agent tool executions and filesystem mutations. Escrows pre-commit inverses and produces signed DSSE receipts.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Autonomous AI task manager.
 - [BabyBeeAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/) - Task management and BabyAGI enhancement.
 - [BeeBot](https://github.com/AutoPackAI/beebot) - Early-stage AI agent research project.
