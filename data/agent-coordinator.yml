@@ -1,0 +1,10 @@
+name: Agent Coordinator
+slug: agent-coordinator
+url: https://github.com/alanhoff/agent-coordinator
+position: ordinary
+oneliner: Codex skill that runs bounded work graphs, records revisioned local state, reconciles uncertain work before retry, and reruns authored closeout checks.
+description: Per-user Codex skill for dependency-aware tasks. The parent task owns graph changes and integration; scoped nodes can run inline or through optional specialists, uncertain operations are reconciled before retry, and authored checks run again at closeout.
+main_category: open-source
+categories: []
+date_added: 2026-09-01
+date_modified: 2026-09-01
