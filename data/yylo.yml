@@ -1,0 +1,10 @@
+name: YYLO
+slug: yylo
+url: https://github.com/yylo-dev/yylo
+position: ordinary
+oneliner: Command-line orchestrator for coding agents.
+description: Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes.
+main_category: open-source
+categories: []
+date_added: 2026-09-10
+date_modified: 2026-09-10
