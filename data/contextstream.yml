@@ -1,0 +1,9 @@
+name: ContextStream
+slug: contextstream
+url: https://contextstream.io
+oneliner: Shared project context MCP for Cursor, Claude Code, Codex, and Grok.
+description: Shared project context for Cursor, Claude Code, Codex, and Grok. Hosted MCP at https://mcp.contextstream.io/mcp. OSS server at https://github.com/contextstream/mcp-server. Intelligence isn't the bottleneck. Context is.
+main_category: closed-source
+categories: []
+date_added: 2026-09-11
+date_modified: 2026-09-11
