@@ -55,6 +55,11 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 - [GPTSwarm](https://gptswarm.org/) - Optimizable graph-based AI agents.
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Reliable agent framework that support MCP.
 
+
+## Closed-source Projects & Companies
+
+- [Aident Loadout](https://aident.ai) - Remote MCP / agent capability layer connecting Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ expert-built Skills through one setup ([GitHub](https://github.com/Aident-AI/aident-skill)).
+
 ---
 
 **License**: CC0

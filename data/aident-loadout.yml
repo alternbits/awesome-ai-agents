@@ -1,0 +1,10 @@
+name: Aident Loadout
+slug: aident-loadout
+url: https://aident.ai
+position: featured
+oneliner: Remote MCP / agent capability layer connecting Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ expert-built Skills through one setup ([GitHub](https://github.com/Aident-AI/aident-skill)).
+description: Capability layer / remote MCP server that connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ expert-built Skills through one setup. Credentials stay in Aident Vault; every action is logged in Audit.
+main_category: closed-source
+categories: []
+date_added: 2026-10-04
+date_modified: 2026-10-04
