@@ -12,6 +12,8 @@ A curated list of AI agents, categorized into open-source projects and closed-so
 ## Open-source Projects
 
 - [Adala](https://github.com/HumanSignal/Adala) - Autonomous data labeling agent framework.
+- [Kortix](https://github.com/kortix-ai/suna) - The open-source AI Management System: agents, skills, memory and connectors in one git repo you own, an isolated Linux machine per session, and a change-request gate on every change. Self-host or managed cloud.
+
 - [AgentGPT](https://agentgpt.reworkd.ai/) - Browser-based no-code AI agent tool.
 - [AutoGen](https://github.com/microsoft/autogen) - Multi-agent AI framework by Microsoft.
 - [CrewAI](https://github.com/joaomdmoura/crewai) - Framework for multi-agent orchestration.
