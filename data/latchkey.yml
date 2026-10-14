@@ -1,0 +1,10 @@
+name: Latchkey
+slug: latchkey
+url: https://latchkey.dev
+position: ordinary
+oneliner: Self-healing GitHub Actions runners with a CLI and MCP server coding agents can drive.
+description: Managed GitHub Actions runners that repair transient failures mid-run, plus a CLI and a hosted MCP server so coding agents can run commands on fresh Linux runners, read CI failure bundles and fix the cause.
+main_category: closed-source
+categories: []
+date_added: 2026-10-14
+date_modified: 2026-10-14
