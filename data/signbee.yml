@@ -1,0 +1,10 @@
+name: Signbee
+slug: signbee
+url: https://github.com/signbee/mcp
+position: ordinary
+oneliner: Document signing MCP server, agent skill, and REST API for AI agents.
+description: Document signing platform for AI agents to send Markdown or PDF agreements for two-party e-signing with SHA-256 cryptographic certificates.
+main_category: open-source
+categories: []
+date_added: 2026-10-31
+date_modified: 2026-10-31
