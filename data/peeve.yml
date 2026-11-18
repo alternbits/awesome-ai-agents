@@ -1,0 +1,10 @@
+name: Peeve
+slug: peeve
+url: https://peeve.ai
+position: ordinary
+oneliner: AI customer support agent for SaaS that answers, shows the steps in your app, and hands off.
+description: Peeve is an AI customer support agent installed inside SaaS products. It answers from the product's docs with a source, shows users the steps in the real interface, completes confirmed actions on higher plans, and hands off to a human with the full session when it cannot resolve a request. It also exposes the product's support capabilities to users' own AI agents over MCP.
+main_category: closed-source
+categories: []
+date_added: 2026-11-18
+date_modified: 2026-11-18
