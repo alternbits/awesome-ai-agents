@@ -1,0 +1,10 @@
+name: FlashData
+slug: flashdata
+url: https://flashdata.dev/
+position: ordinary
+oneliner: Real-time Google Search SERP, YouTube Data & transcripts, and cloud video download APIs, CLI, and hosted MCP for AI agents.
+description: "FlashData provides AI agents and developers with real-time Google Search SERP (web, news, images, shopping, videos, places), YouTube Data & timestamped transcripts, and direct cloud-storage YouTube video downloads in clean JSON via one API, standalone CLI, and hosted MCP server (https://data.flashdata.dev/mcp). Start with a free trial after email verification (no credit card required); $0/mo pay-as-you-go ($1.00/1k Google searches, $0.50/1k YouTube Data requests, $0.10/GB delivered) or optional monthly plans from $49/mo."
+main_category: closed-source
+categories: []
+date_added: 2026-11-20
+date_modified: 2026-11-21
